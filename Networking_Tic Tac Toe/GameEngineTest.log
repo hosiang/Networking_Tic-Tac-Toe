@@ -1,0 +1,728 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GameEngineTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Matrix.cpp
+  Vector.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\angle_util\Vector.cpp(26,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\angle_util\Vector.cpp(92,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\angle_util\Vector.cpp(413,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Application.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(24,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(25,73): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(26,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(27,73): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(32,68): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(36,67): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(39,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(40,75): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(192,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(192,32): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(222,14): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(223,11): warning C4244: '=': conversion from 'size_t' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(281,40): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Application.cpp(281,32): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Audio.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Audio.cpp(32,66): warning C4474: 'printf' : too many arguments passed for format string
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Audio.cpp(32,66): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+  BitData.cpp
+  Camera.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(3,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(43,47): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(43,75): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(43,105): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(43,134): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(94,43): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(99,47): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(104,53): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(109,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(109,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(109,90): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(116,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(116,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(122,44): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(127,56): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(135,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(140,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(145,43): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(150,48): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(155,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(160,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(165,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(170,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(175,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(180,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.cpp(185,46): warning C4227: anachronism used: qualifiers on reference are ignored
+  Color.cpp
+  EmitterShape.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\EmitterShape.cpp(68,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\EmitterShape.cpp(69,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\EmitterShape.cpp(142,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\EmitterShape.cpp(143,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  FrameBuffer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+  GameObject.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+  Input.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+  main.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\main.cpp(29,83): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\main.cpp(29,69): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  MyPhoton.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+  ParticleAffector.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleAffector.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleAffector.cpp(100,83): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleAffector.cpp(129,57): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleAffector.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+  ParticleObject.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleObject.cpp(134,65): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleObject.cpp(137,69): warning C4244: 'argument': conversion from 'const double' to 'const float', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleObject.cpp(142,32): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+  ParticleSystem.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleSystem.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleSystem.cpp(71,24): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleSystem.cpp(77,24): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ParticleSystem.cpp(187,45): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+  Random.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Random.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ShaderProgram.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.cpp(78,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const GLuint'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.cpp(78,70): warning C4474: 'printf' : too many arguments passed for format string
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.cpp(78,70): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.cpp(251,49): warning C4227: anachronism used: qualifiers on reference are ignored
+  ShaderFiles.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.cpp(25,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.cpp(31,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.cpp(110,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.cpp(110,121): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.cpp(168,69): warning C4227: anachronism used: qualifiers on reference are ignored
+  Sprite.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Global.h(24,68): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating Code...
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\FrameBuffer.cpp(26): warning C4717: 'FrameBuffer::operator=': recursive on all control paths, function will cause runtime stack overflow
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\BitData.cpp(143): warning C4172: returning address of local variable or temporary: tempValue
+  Compiling...
+  Texture.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Texture.cpp(9,12): warning C4244: '=': conversion from 'float' to 'GLsizei', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Texture.cpp(10,13): warning C4244: '=': conversion from 'float' to 'GLsizei', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Texture.cpp(35,12): warning C4244: '=': conversion from 'float' to 'GLsizei', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Texture.cpp(36,13): warning C4244: '=': conversion from 'float' to 'GLsizei', possible loss of data
+  Time.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.cpp(34,13): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.cpp(64,44): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.cpp(69,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.cpp(74,39): warning C4227: anachronism used: qualifiers on reference are ignored
+  Transform.cpp
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderProgram.h(54,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(47,109): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\ShaderFiles.h(48,57): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(33,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,126): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(48,162): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(53,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(54,40): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(55,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(56,83): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(57,61): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(58,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(63,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(64,52): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(65,36): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(66,41): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(67,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(68,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(69,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(70,32): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(71,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(72,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Camera.h(73,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(31,39): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(32,29): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Time.h(33,34): warning C4227: anachronism used: qualifiers on reference are ignored
+  Window.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\SDK\Includes\GLAD\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(25,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,65): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(41,88): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,25): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(42,50): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(51,27): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(52,28): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(53,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(54,26): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(58,46): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,37): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(60,62): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.h(61,58): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(30,59): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(58,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(58,72): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(58,95): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(59,24): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(59,49): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(137,34): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(142,35): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(147,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(152,33): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(160,53): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(171,44): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(171,69): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(176,42): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Codes\Window.cpp(176,65): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Debug\soil2-debug.pdb'; linking object as if no debug info
+  GameEngineTest.vcxproj -> D:\Users\Tay Ho Siang\source\repos\GameEngineTest\Debug\GameEngine.exe
